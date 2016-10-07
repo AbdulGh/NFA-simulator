@@ -1,0 +1,21 @@
+begin
+x:second;
+
+-second
+:third fourth;
+
+-third
+a:third;
+b:almost;
+
+-fourth
+b:fourth;
+a:almost;
+
+-almost
+y:fin;
+:second;
+
+-*fin
+
+
